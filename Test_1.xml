@@ -12,13 +12,6 @@
             <field name="NUM">5000</field>
           </block>
         </value>
-      </block>
-    </next>
-  </block>
-  <block type="robot_delay" id="12" inline="true" x="243" y="196"></block>
-  <block type="movement_forward" id="40" x="301" y="293">
-    <next>
-      <block type="robot_delay" id="42" inline="true">
         <next>
           <block type="movement_stop" id="29"></block>
         </next>
