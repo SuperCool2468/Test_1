@@ -4,7 +4,7 @@
       <block type="movement_setmotors" id="76" inline="true">
         <value name="BOTHMOVLEFT">
           <block type="math_number" id="19">
-            <field name="NUM">5000</field>
+            <field name="NUM">500000</field>
           </block>
         </value>
         <value name="BOTHMOVRIGHT">
