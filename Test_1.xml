@@ -1,10 +1,10 @@
 <xml xmlns="http://www.w3.org/1999/xhtml">
-  <block type="movement_forward" id="10" x="267" y="136"></block>
-  <block type="math_number" id="19" x="334" y="224">
+  <block type="movement_forward" id="1" x="267" y="136"></block>
+  <block type="math_number" id="2" x="334" y="224">
     <field name="NUM">5000</field>
   </block>
-  <block type="math_number" id="55" x="400" y="221">
+  <block type="math_number" id="3" x="400" y="221">
     <field name="NUM">5000</field>
   </block>
-  <block type="movement_stop" id="29" x="132" y="365"></block>
+  <block type="movement_stop" id="4" x="132" y="365"></block>
 </xml>
